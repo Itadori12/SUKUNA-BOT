@@ -1,0 +1,19 @@
+# SUKUNA-BOT
+BOT DE TERMUX SUKUNA-ITADORI
+const { WAConnection } = require('@adiwajshing/baileys');
+const fs = require('fs');
+
+async function iniciar () { 
+        const client = new WAConnection()
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "nombre del archivo creado anteriormente.js",
+  "scripts": {
+  "start": "node nombre del archivo creado anteriormente.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
